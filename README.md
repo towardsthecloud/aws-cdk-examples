@@ -1,4 +1,4 @@
-# [![AWS CDK Examples Banner](./icons/github-header-image.png)](https://towardsthecloud.com)
+# [![AWS CDK Examples Banner](./icons/github-title-banner.png)](https://towardsthecloud.com)
 
 # AWS CDK Examples
 
