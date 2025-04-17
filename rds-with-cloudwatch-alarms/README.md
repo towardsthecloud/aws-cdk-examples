@@ -11,7 +11,7 @@
 
 ## How to use this example
 
-### 1. Clone [this repository](https://github.com/dannysteenman/aws-cdk-examples)
+### 1. Clone [this repository](https://github.com/towardsthecloud/aws-cdk-examples)
 
 ```bash
 git clone git@github.com:dannysteenman/aws-cdk-examples.git
