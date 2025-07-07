@@ -18,7 +18,7 @@ A collection of AWS CDK code samples crafted in TypeScript, featured on my blog 
 >
 > ### AWS complexity builds faster than you realize
 >
-> What starts as simple deployment quickly spirals into inefficient architectures costing 40-60% more than needed, security blind spots risking customer data, and team burnout from operations instead of product development.
+> What starts as a simple deployment quickly spirals into inefficient architectures that cost 40-60% more than needed, security blind spots that risk customer data, and teams that burnout from managing operations on AWS instead of building product.
 >
 > **Traditional consultancies prioritize billable hours over outcomes, then disappear after setup. We do the opposite...**
 >
